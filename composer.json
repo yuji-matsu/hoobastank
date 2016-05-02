@@ -1,0 +1,19 @@
+{
+    "name": "yamasaki/hoobastank",
+    "description": "Simple Crawling Framework",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "codeception/codeception": "1.8.*",
+        "doctrine/orm": "~2.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuji-matsu",
+            "email": "matsuoka.mlc@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
